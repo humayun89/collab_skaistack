@@ -1,0 +1,5 @@
+---
+- name: Patching Linux System
+  hosts: all
+  gather_facts: yes
+  tasks: 
